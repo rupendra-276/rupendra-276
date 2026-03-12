@@ -16,78 +16,38 @@ Continuous learner in AI, Data Science.
 
 ### Programming & AI
 
-• ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-
-• ![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
-
-• ![Deep Learning](https://img.shields.io/badge/DeepLearning-red)
-
-• ![NLP](https://img.shields.io/badge/NLP-orange)
-
-• ![Generative AI](https://img.shields.io/badge/GenerativeAI-purple)
-
-• ![Agentic AI](https://img.shields.io/badge/AgenticAI-black)
-
-• ![Prompt Engineering](https://img.shields.io/badge/PromptEngineering-yellow)
-
-• ![MLOps](https://img.shields.io/badge/MLOps-AI%20Deployment-green)
+• ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) • ![Machine Learning](https://img.shields.io/badge/MachineLearning-green) • ![Deep Learning](https://img.shields.io/badge/DeepLearning-red) • ![NLP](https://img.shields.io/badge/NLP-orange) • ![Generative AI](https://img.shields.io/badge/GenerativeAI-purple) • ![Agentic AI](https://img.shields.io/badge/AgenticAI-black) • ![Prompt Engineering](https://img.shields.io/badge/PromptEngineering-yellow) • ![MLOps](https://img.shields.io/badge/MLOps-AI%20Deployment-green)
 
 ---
 
 ### AI Frameworks
 
-• ![LangChain](https://img.shields.io/badge/LangChain-green)
-
-• ![OpenAI](https://img.shields.io/badge/OpenAI-black)
-
-• ![RAG](https://img.shields.io/badge/RAG-blue)
-
-• ![VectorDB](https://img.shields.io/badge/VectorDB-purple)
+• ![LangChain](https://img.shields.io/badge/LangChain-green) • ![OpenAI](https://img.shields.io/badge/OpenAI-black) • ![RAG](https://img.shields.io/badge/RAG-blue) • ![VectorDB](https://img.shields.io/badge/VectorDB-purple)
 
 ---
 
 ### Data Science Libraries
 
-• ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-
-• ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-
-• ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
-
-• ![Seaborn](https://img.shields.io/badge/Seaborn-blue)
-
-• ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange)
+• ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy) • ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas) • ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange) • ![Seaborn](https://img.shields.io/badge/Seaborn-blue) • ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange)
 
 ---
 
 ### Development Tools
 
-• ![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-
-• ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
-
-• ![Git](https://img.shields.io/badge/Git-red?logo=git)
-
-• ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+• ![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode) • ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter) • ![Git](https://img.shields.io/badge/Git-red?logo=git) • ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
 
 ---
 
 ### Web Development
 
-• ![React](https://img.shields.io/badge/React-blue?logo=react)
-
-• ![Node.js](https://img.shields.io/badge/NodeJS-green?logo=node.js)
-
-• ![Express.js](https://img.shields.io/badge/Express.js-grey)
+• ![React](https://img.shields.io/badge/React-blue?logo=react) • ![Node.js](https://img.shields.io/badge/NodeJS-green?logo=node.js) • ![Express.js](https://img.shields.io/badge/Express.js-grey)
 
 ---
 
 ### Databases
 
-• ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)
-
-• ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+• ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb) • ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 ## 🌐 Connect With Me
 
