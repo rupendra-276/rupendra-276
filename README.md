@@ -4,14 +4,6 @@ Passionate about building AI-powered products, machine learning systems, and sca
 I have 2+ years of experience in software engineering and currently focusing on Artificial Intelligence, Machine Learning, and AI Product Development.
 My goal is to build intelligent systems and AI tools that solve real-world problems.
 
-## 🔥 About Me
-Software Engineer with 1+ years experience
-Transitioning into AI Engineering
-Learning Machine Learning, Deep Learning & NLP
-Building AI-powered applications
-Continuous learner in AI, Data Science.
-
-
 ## 🧠 Tech Stack
 
 ### Programming & AI
