@@ -9,4 +9,7 @@
 - Interested in AI Products
 
 ## 🛠 Tech Stack
-Python | Pandas | NumPy | Scikit-Learn | TensorFlow | SQL
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
